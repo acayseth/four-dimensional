@@ -1,0 +1,33 @@
+# idea
+**/.idea
+**/.vscode
+
+# turo
+**/.turbo
+
+# deps
+**/node_models
+**/.pnp
+**/.pnp.js
+**/.yarn/install-state.gz
+
+# misc
+**/.DS_Store
+**/*.pem
+
+# debug
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# build
+**/.next
+**/dist
+**/build
+
+# env
+**/.env*
+!**/.env.example
+
+# typescript
+**/*.tsbuildinfo`
